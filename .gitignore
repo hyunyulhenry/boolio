@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+read_data.R
+rsconnect/*
+postgresql.R
